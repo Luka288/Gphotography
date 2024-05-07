@@ -5,7 +5,7 @@ body {
   background: linear-gradient(to right, #171821, #0c0e21, #080c2b);
 }
 
-div {
+.imgs {
   display: flex;
   gap: 10px;
   position: absolute;
